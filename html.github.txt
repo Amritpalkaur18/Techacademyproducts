@@ -1,0 +1,12 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width>
+    <title>My Name</title>
+</head>
+<body>
+    <h1>My Name</h1>
+    <p>Hello, my name is [Your Name].</p>
+</body>
+</html>
