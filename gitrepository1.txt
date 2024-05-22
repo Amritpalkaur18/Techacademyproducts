@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>GitHub</title>
+</head>
+<body>
+   <footer class="footer">
+  <img src="file:///C:/Users/HP/Pictures/sunshine%20image.jpg">  </img>
+    <ul>
+       <li> <a href="#>Home</a></li>
+       <li> <a href="#>About</a></li>
+       <li> <a href="#>Services</a></li>
+       <li> <a href="#>Products</a></li>
+       <li> <a href="#>Contact</a></li>
+   </ul>
+    </footer>
+          <font size=7 color=blue>
+   <p>Html file</p?
+  </body>
+  </html>
